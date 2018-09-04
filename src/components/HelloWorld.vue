@@ -1,5 +1,8 @@
 <template>
- <div>hhhihi</div>
+ <div style="text-align: center; font-size: 20px;
+    font-weight: 500;
+    text-transform: uppercase;
+    color :#05900bbf;">Test component</div>
 </template>
 <script>
 // export default {
