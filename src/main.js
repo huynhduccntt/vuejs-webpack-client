@@ -3,7 +3,12 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
+import Vuesax from 'vuesax'
+import 'vuesax/dist/vuesax.css'
+import 'material-icons/iconfont/material-icons.css'
 
+// implement Vuesax throughout the application
+Vue.use(Vuesax)
 Vue.config.productionTip = false
 
 /* eslint-disable no-new */
